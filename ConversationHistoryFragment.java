@@ -6,8 +6,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.yen.gifexample.R;
-
 /**
  * Created by Yan on 6/12/16.
  */

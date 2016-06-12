@@ -12,8 +12,6 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.Toast;
 
-import com.example.yen.gifexample.R;
-
 /**
  * Created by Yan on 6/11/16.
  */

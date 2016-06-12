@@ -11,7 +11,6 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 
 import com.bumptech.glide.Glide;
-import com.example.yen.gifexample.R;
 
 /**
  * Created by Yan on 6/11/16.

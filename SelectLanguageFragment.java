@@ -9,8 +9,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
-import com.example.yen.gifexample.R;
-
 /**
  * Created by Yan on 6/11/16.
  */
@@ -29,6 +27,7 @@ public class SelectLanguageFragment extends Fragment {
     private void initViews(View v){
         imvChinese = (ImageView) v.findViewById(R.id.fragment_language_imv_chinese);
         imvTaiwanese = (ImageView) v.findViewById(R.id.fragment_language_imv_taiwanese);
+        imvConfirm = (ImageView) v.findViewById(R.id.fragment_language_imv_confirm);
         initListener();
     }
 

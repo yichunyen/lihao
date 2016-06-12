@@ -9,8 +9,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
-import com.example.yen.gifexample.R;
-
 /**
  * Created by Yan on 6/11/16.
  */

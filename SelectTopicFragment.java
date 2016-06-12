@@ -10,8 +10,6 @@ import android.view.ViewGroup;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.example.yen.gifexample.R;
-
 /**
  * Created by Yan on 6/11/16.
  */
